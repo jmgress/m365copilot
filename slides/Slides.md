@@ -122,6 +122,60 @@ Shows how Copilot can save hours of manual status report compilation
 
 ---
 
+# **Prompt Library: Reusable Excellence** 💾
+
+## **Save Your Best Prompts**
+
+- **Personal prompt library** for frequently used queries
+- **Team sharing** of proven prompts
+- **Organizational templates** for consistency
+- **One-click reuse** with customization options
+
+## **Build Your Library**
+
+- Save prompts that generate great results
+- Organize by task type or project
+- Share best practices across teams
+- Evolve prompts based on learnings
+
+<!-- 
+Prompt Library eliminates reinventing the wheel for common tasks
+Creates organizational knowledge around effective AI use
+Enables less experienced users to leverage expert-level prompts
+Drives consistency in outputs across teams
+Acts as training tool - learn from successful prompts
+Great for onboarding new Copilot users
+-->
+
+---
+
+# **Scheduled Prompts: Automation at Work** ⏰
+
+## **Set It and Forget It**
+
+- **Recurring reports** generated automatically
+- **Daily briefings** delivered on schedule
+- **Weekly summaries** without manual requests
+- **Custom timing** for your workflow needs
+
+## **Perfect For**
+
+- Morning email summaries before you start work
+- End-of-week project status updates
+- Monthly trend analysis and insights
+- Regular competitive intelligence reports
+
+<!-- 
+Scheduled prompts transform Copilot from reactive to proactive
+Automates repetitive information gathering tasks
+Ensures you never forget routine status checks or updates
+Delivers insights when you need them, not when you remember to ask
+Great for managers who need consistent reporting
+Reduces cognitive load - one less thing to remember
+-->
+
+---
+
 # It's All About Context
 
 ---
@@ -182,6 +236,69 @@ This is especially important in M365 Copilot where you're pulling from so many s
 
 ---
 
+# **Managing Copilot Memory** 🧠
+
+## **Teach Copilot About You**
+
+- **Add memories** for personalized responses
+- **Store preferences** like writing style or tone
+- **Save context** about projects and priorities
+- **Remove outdated info** to keep it current
+
+## **What to Remember**
+
+- Your role, responsibilities, and goals
+- Preferred formats and communication style
+- Key projects, clients, or initiatives
+- Common abbreviations or internal terms
+
+## **Keep It Fresh**
+
+Review and update memories regularly to maintain accuracy
+
+<!-- 
+Memory feature allows Copilot to learn your preferences over time
+Unlike context window which is temporary, memory persists across chats
+Great for storing long-term preferences that apply to all interactions
+Can be managed - add new memories or delete outdated ones
+Helps Copilot provide more personalized, relevant responses
+Particularly useful for consistent tone, format preferences, and role context
+Be mindful of what you store - review periodically for accuracy
+-->
+
+---
+
+# **Personalization: Custom Instructions + Memory** ✨
+
+## **Two Powerful Tools Working Together**
+
+### **Custom Instructions** 📝
+- **Set global rules** Copilot always follows
+- **Define your context** once, apply everywhere
+- **Establish guidelines** for all responses
+
+### **Copilot Memory** 🧠
+- **Learns over time** from your interactions
+- **Adaptive preferences** that evolve
+- **Automatic context** from past conversations
+
+## **Best Together**
+
+Custom instructions set the baseline → Memory refines over time
+
+<!-- 
+Custom instructions are explicit rules you define upfront
+Memory is implicit learning from your actual usage patterns
+Together they create a highly personalized Copilot experience
+Custom instructions are great for consistent requirements (tone, format, role)
+Memory captures nuances that emerge from how you actually work
+Example: Custom instruction says "be concise", Memory learns you prefer bullet points
+Both persist across chats but can be updated independently
+This combination makes Copilot feel increasingly tailored to your work style
+-->
+
+---
+
 # **Work vs Web Toggle**
 
 ## **Work Mode** 🏢
@@ -200,6 +317,32 @@ Work mode keeps everything within your organization's security boundary
 Web mode gives you broader knowledge but no access to your company data
 Many users don't realize they can toggle between these modes
 This is a key feature that maintains data security while providing flexibility
+-->
+
+---
+
+# **M365 Copilot Search**
+
+## **Enterprise Search Reimagined** 🔎
+
+- **Semantic search** across all your M365 data
+- **Natural language queries** instead of keywords
+- **Intelligent summaries** from multiple sources
+- **People, files, emails, chats** - all in one place
+
+## **What Makes It Different**
+
+- Understands intent, not just matches words
+- Surfaces relevant context automatically
+- Combines web and work data seamlessly
+- Generates answers, not just links
+
+<!-- 
+M365 Copilot Search transforms how you find information across the enterprise
+Traditional search relies on exact keyword matching - Copilot understands what you mean
+Aggregates information from emails, Teams, SharePoint, OneDrive, and more
+Provides synthesized answers with citations instead of forcing you to click through links
+Saves significant time in knowledge work by reducing the search-to-answer cycle
 -->
 
 ---
@@ -264,6 +407,33 @@ Important Caveats
 
 Enterprise Governance: In Microsoft Copilot, even Temporary Chats may be subject to retention, auditing, or eDiscovery under organizational policies. [marcotran.com.au]
 Not Fully Anonymous: While not used for personalization or training, platforms may temporarily store data for abuse prevention or compliance. [help.openai.com]
+-->
+
+---
+
+# **All Chats: Your Conversation Library** 📚
+
+## **Never Lose a Conversation**
+
+- **Searchable history** of all your Copilot interactions
+- **Quick filters** by date, topic, or project
+- **Resume any conversation** right where you left off
+- **Reference past insights** for future work
+
+## **Pro Tips**
+
+- Use descriptive first messages for easy finding
+- Search by keywords from your past prompts
+- Review patterns in your most successful queries
+- Build on previous work instead of starting over
+
+<!-- 
+All Chats is your personal knowledge repository of AI interactions
+Powerful for finding that one perfect response from weeks ago
+Search functionality makes it easy to rediscover insights
+Helps you learn what prompts work best over time
+Great for maintaining continuity across projects
+Think of it as your searchable AI conversation archive
 -->
 
 ---
