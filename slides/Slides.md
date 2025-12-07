@@ -53,9 +53,38 @@ These quotes frame AI adoption as both inevitable and fundamentally about human 
 
 ---
 
-# **Getting Started: Simple Chat**
+# It's All About Context
 
-## **Try M365 Copilot Right Now**
+---
+
+# What is Context and the Context Window
+
+<div style="text-align: center;">
+
+![width:1200px](img/contextwindow.drawio.svg?page=1)
+
+</div>
+
+<!-- Typical ordering inside the context window
+System prompt – The hidden instructions from the platform or developer.
+Example: “You are ChatGPT, a large language model trained by OpenAI. Follow these guidelines…”
+Can also include special behavior rules, safety policies, or formatting requirements.
+Developer or application-specific instructions – Additional hidden setup from the app integrating the model.
+Example: “Always respond in JSON unless otherwise specified.”
+Conversation history – Your past messages + the model’s past responses.
+May be direct text or summaries if the history is long.
+Injected knowledge or retrieved content – Snippets from web search, databases, documents, or memory.
+Your latest prompt – The most recent user message. -->
+
+<!--
+System Prompts can vastly ajust the behavior, some issues in the past have been
+Google, Implicit prompt bias, with image generation
+Grok, Spreading extremist narratives
+OpenAI Sycophantic behavior -->
+
+---
+
+# **Getting Started: Simple Chat**
 
 1. **Open Microsoft Teams, Outlook, or Copilot.microsoft.com**
 2. **Click the Copilot icon**
@@ -137,18 +166,21 @@ Ask Copilot to explain its thinking step-by-step
 
 *"Analyze our Q4 sales data and recommend which product line to prioritize. **Think through this step-by-step**: First identify trends, then compare margins, finally consider market conditions. Show your reasoning for each step."*
 
+
+<!--
 ## **Why It Works**
 
 - Produces more accurate, reliable results
 - Reveals the logic behind recommendations
 - Helps you verify the analysis process
 - Great for complex decisions
-
-<!-- 
+ 
 Chain-of-thought prompting dramatically improves reasoning quality
 Forces the model to work through problems methodically
 Particularly effective for analysis, planning, and problem-solving tasks
 Makes AI reasoning transparent and verifiable
+
+Prompt: "Analyze the data to provide a recommendation. Ensure the recommendation accounts for outliers and trends."
 -->
 
 ---
@@ -167,13 +199,14 @@ Provide 2-3 examples of what you want, then ask for more
 
 *Now convert these notes: [your actual notes]"*
 
+<!--
 ## **Why It Works**
 
 - Ensures consistent formatting
 - Captures your specific style
 - Reduces need for detailed instructions
 
-<!-- 
+ 
 Few-shot learning is incredibly powerful for consistent outputs
 2-3 examples are usually enough to establish the pattern
 Great for formatting tasks, style matching, and template generation
@@ -192,6 +225,7 @@ Tell Copilot who to be for specialized responses
 
 *"You are a seasoned project manager with 15 years of experience in software development. Review this project timeline and identify potential risks, dependencies, and resource conflicts. Provide recommendations based on PMI best practices."*
 
+<!-- 
 ## **Why It Works**
 
 - Activates relevant knowledge domains
@@ -199,7 +233,7 @@ Tell Copilot who to be for specialized responses
 - Provides domain-specific insights
 - Contextualizes responses appropriately
 
-<!-- 
+
 Role-based prompting leverages the model's training across different domains
 The persona helps frame the response with appropriate expertise
 Works well for technical advice, strategic planning, creative tasks
@@ -218,6 +252,8 @@ Ask Copilot to consider different approaches before deciding
 
 *"I need to improve team productivity. **Explore three different approaches**: 1) Process optimization, 2) Technology tools, 3) Team structure changes. For each, outline pros, cons, and implementation complexity. Then recommend the best path forward and explain why."*
 
+<!-- 
+
 ## **Why It Works**
 
 - Evaluates multiple solutions
@@ -225,7 +261,7 @@ Ask Copilot to consider different approaches before deciding
 - Leads to more balanced decisions
 - Reduces confirmation bias
 
-<!-- 
+
 Tree-of-thought extends chain-of-thought to explore multiple reasoning paths
 Particularly powerful for strategic decisions and complex problems
 Forces consideration of alternatives before committing to a solution
@@ -248,6 +284,8 @@ Start broad, then progressively refine with follow-ups
 *Prompt 3: "For the #1 complaint, suggest 5 potential solutions"*
 *Prompt 4: "Expand on solution 2 with implementation steps"*
 
+<!-- 
+
 ## **Why It Works**
 
 - Faster than crafting perfect prompts upfront
@@ -255,7 +293,7 @@ Start broad, then progressively refine with follow-ups
 - Builds context naturally
 - More conversational and efficient
 
-<!-- 
+
 Iterative refinement is often more efficient than trying to write the perfect prompt
 Leverage Copilot's ability to maintain conversation context
 Each refinement narrows focus and improves precision
@@ -279,13 +317,15 @@ Let Copilot analyze objectively without steering toward your preferred outcome
 
 *"Analyze our market position compared to competitors. What are the key trends, strengths, and weaknesses for each player?"*
 
+<!--
+
 ## **Why It Matters**
 
 - Confirmation bias leads to flawed analysis
 - Objective data reveals real insights
 - Better decisions require honest assessment
 
-<!-- 
+ 
 Leading questions can cause Copilot to rationalize your assumptions rather than analyze objectively
 The model will try to satisfy what it perceives as your expectation
 This is particularly dangerous in business analysis, competitive research, and strategic planning
@@ -311,13 +351,15 @@ When you want Copilot to adapt ideas to your context, use "like" instead of exac
 
 *"Write a project update email **like** the ones I usually send - concise, data-driven, and highlighting what stakeholders need to know."*
 
+<!-- 
+
 ## **Why It Works**
 
 - Copilot applies concepts to YOUR context
 - Adapts ideas rather than copying templates
 - Encourages contextual intelligence
 
-<!-- 
+
 "Like" is a powerful word for getting Copilot to understand intent without over-constraining
 It signals: "Use this as inspiration, but make it fit my situation"
 Particularly useful when you have a general idea but want Copilot to contextualize it
@@ -339,13 +381,6 @@ Use "like" when you want conceptual guidance with contextual adaptation
 - **Organizational templates** for consistency
 - **One-click reuse** with customization options
 
-## **Build Your Library**
-
-- Save prompts that generate great results
-- Organize by task type or project
-- Share best practices across teams
-- Evolve prompts based on learnings
-
 <!-- 
 Prompt Library eliminates reinventing the wheel for common tasks
 Creates organizational knowledge around effective AI use
@@ -358,8 +393,6 @@ Great for onboarding new Copilot users
 ---
 
 # **Scheduled Prompts: Automation at Work** ⏰
-
-## **Set It and Forget It**
 
 - **Recurring reports** generated automatically
 - **Daily briefings** delivered on schedule
@@ -381,37 +414,6 @@ Delivers insights when you need them, not when you remember to ask
 Great for managers who need consistent reporting
 Reduces cognitive load - one less thing to remember
 -->
-
----
-
-# It's All About Context
-
----
-
-# What is Context and the Context Window
-
-<div style="text-align: center;">
-
-![width:1200px](img/contextwindow.drawio.svg?page=1)
-
-</div>
-
-<!-- Typical ordering inside the context window
-System prompt – The hidden instructions from the platform or developer.
-Example: “You are ChatGPT, a large language model trained by OpenAI. Follow these guidelines…”
-Can also include special behavior rules, safety policies, or formatting requirements.
-Developer or application-specific instructions – Additional hidden setup from the app integrating the model.
-Example: “Always respond in JSON unless otherwise specified.”
-Conversation history – Your past messages + the model’s past responses.
-May be direct text or summaries if the history is long.
-Injected knowledge or retrieved content – Snippets from web search, databases, documents, or memory.
-Your latest prompt – The most recent user message. -->
-
-<!--
-System Prompts can vastly ajust the behavior, some issues in the past have been
-Google, Implicit prompt bias, with image generation
-Grok, Spreading extremist narratives
-OpenAI Sycophantic behavior -->
 
 ---
 
