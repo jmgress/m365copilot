@@ -12,3 +12,5 @@
 - Custom themes or assets should be stored in appropriate subdirectories under `slides`.
 - Follow Marp best practices for layout and styling.
 - Ensure compatibility with Marp CLI for PDF and presentation generation.
+- Pages can only have about 9 lines of text for readability, visual appeal, and is best practice for presentations.
+- Pages can only have a maximum of 9 lines.

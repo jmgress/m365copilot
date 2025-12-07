@@ -179,3 +179,74 @@ Starting fresh helps Copilot focus on what matters now
 Think of it like clearing your workspace before starting a new task
 This is especially important in M365 Copilot where you're pulling from so many sources
 -->
+
+---
+
+# **Work vs Web Toggle**
+
+## **Work Mode** 🏢
+- Your company data (emails, Teams, SharePoint)
+- Internal projects and communications
+- Confidential content stays secure
+
+## **Web Mode** 🌐
+- Public internet information
+- Industry trends and general knowledge
+- No access to your company data
+
+
+<!-- 
+Work mode keeps everything within your organization's security boundary
+Web mode gives you broader knowledge but no access to your company data
+Many users don't realize they can toggle between these modes
+This is a key feature that maintains data security while providing flexibility
+-->
+
+---
+
+# **Temporary Chat: When Privacy Matters**
+
+## **What Is It?** 🔒
+Chat history is **not saved** or used for training
+
+## **Use Temporary Chat For:**
+- Exploring sensitive topics or scenarios
+- Testing prompts with confidential data
+- Personal brainstorming sessions
+- Prototype ideas before formal documentation
+
+
+<!-- 
+Temporary chat ensures your conversation won't be saved to chat history
+Especially useful when testing prompts with real client names or sensitive info
+Great for "what if" scenarios you don't want documented
+Think of it as incognito mode for Copilot
+
+Important Caveats
+
+Enterprise Governance: In Microsoft Copilot, even Temporary Chats may be subject to retention, auditing, or eDiscovery under organizational policies. [marcotran.com.au]
+Not Fully Anonymous: While not used for personalization or training, platforms may temporarily store data for abuse prevention or compliance. [help.openai.com]
+-->
+
+---
+
+# **Protected Status Indicators**
+
+## **The Shield Icon** 🛡️
+Shows your data is **enterprise-protected**
+
+## **What It Means:**
+- Your prompts and responses stay within your tenant
+- Protected by commercial data protection
+- Not used to train foundation AI models
+- Compliant with organizational security policies
+
+<!-- 
+The shield/protected indicator is critical for enterprise users
+It confirms that Microsoft's commercial data protection is in effect
+Without the shield, data may not have the same enterprise protections
+Users should always verify the shield is present when handling sensitive info
+This is especially important in organizations with strict compliance requirements
+-->
+
+---
