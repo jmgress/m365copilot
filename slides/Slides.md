@@ -31,21 +31,43 @@ Specialize in AI in the SDLD or TDLC
 
 ---
 
-# **AI-Generated Code: CEO Insights (2025)**
+# **M365 Copilot: Leadership Insights**
 
 ---
 
-## **Current Impact**
-- **Satya Nadella (Microsoft)**  
-  *“20–30% of the code in our repos today is written by AI.”*  
-  **Date:** Apr 29, 2025 (LlamaCon)
+## **Transforming Productivity**
+- **Satya Nadella (Microsoft CEO)**  
+  *"Copilot is reinventing how people work. It's not just about doing more—it's about doing better work."*  
+  **Date:** 2024 Microsoft Ignite
 
-- **Sundar Pichai (Google)**  
-  *“AI is generating more than 30% of the company’s code.”*  
-  **Date:** Apr 2025 (Alphabet Earnings Call)
+- **Jared Spataro (Microsoft AI @ Work)**  
+  *"70% of Copilot users say they are more productive, and 68% say it improved the quality of their work."*  
+  **Date:** 2024 Work Trend Index
 
 <!--
 Sources:
-Satya Nadella: https://www.windowscentral.com/software-apps/ai/satya-nadella-says-30-of-microsofts-code-is-written-by-ai  
-Sundar Pichai: https://www.cnbc.com/2025/04/25/google-ceo-sundar-pichai-says-ai-generates-30percent-of-company-code.html  
+Microsoft Work Trend Index: https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work
+Focus on productivity gains and work quality improvements with M365 Copilot
+-->
+
+---
+
+# **Getting Started: Simple Chat**
+
+## **Try M365 Copilot Right Now**
+
+1. **Open Microsoft Teams, Outlook, or Copilot.microsoft.com**
+2. **Click the Copilot icon**
+3. **Start with simple questions:**
+   - "Summarize my emails from this week"
+   - "What meetings do I have today?"
+   - "Help me draft a response to [person's name]"
+
+## **Pro Tip**
+The more context you provide, the better the results!
+
+<!-- 
+M365 Copilot works best when you give it context
+Start simple and build up complexity
+Works across the entire Microsoft 365 ecosystem
 -->
