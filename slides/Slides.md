@@ -204,6 +204,44 @@ This is a key feature that maintains data security while providing flexibility
 
 ---
 
+# **GPT-5 is Here: Try It Now**
+
+## **What's New in GPT-5?**
+- Significantly improved reasoning and accuracy
+- Better understanding of complex instructions
+- Enhanced creative and analytical capabilities
+- More reliable and coherent responses
+
+<!-- 
+GPT-5 represents a significant leap in AI capabilities
+Available to M365 Copilot users with appropriate licensing
+Great for complex reasoning, analysis, and creative tasks
+May have different performance characteristics - test with your use cases
+-->
+
+---
+
+# **GPT-4 vs GPT-5 in M365 Copilot**
+
+## **GPT-4 (Standard Model)**
+- Fast, efficient for most daily tasks
+- Great for summaries, drafts, and routine queries
+- Best for: Quick answers, standard productivity tasks
+
+## **GPT-5 (Advanced Model)**
+- Superior reasoning and complex problem-solving
+- Better at nuanced instructions and context
+- Best for: Deep research, critical thinking, complex writing
+
+<!-- 
+GPT-4 is the workhorse - handles 90% of everyday tasks efficiently
+GPT-5 is for when you need the extra horsepower
+Consider cost/performance tradeoffs in your organization
+Test both models to understand which works best for your specific use cases
+-->
+
+---
+
 # **Temporary Chat: When Privacy Matters**
 
 ## **What Is It?** 🔒
@@ -250,3 +288,106 @@ This is especially important in organizations with strict compliance requirement
 -->
 
 ---
+
+# **M365 Copilot Analyst**
+
+## **Advanced Data Analysis with AI** 📊
+
+- **Work with complex datasets** directly in Copilot
+- **Natural language queries** for data insights
+- **Automated visualization** and trend analysis
+- **Integrates with Excel, Power BI, and enterprise data**
+
+## **Key Capabilities**
+- Upload files (CSV, Excel) for instant analysis
+- Ask questions about patterns and anomalies
+- Generate charts and summaries automatically
+- Export insights back to your workflows
+
+<!-- 
+M365 Copilot Analyst is designed for data-driven decision making
+Democratizes data analysis - no advanced Excel or analytics skills needed
+Can handle large datasets and complex calculations
+Great bridge between business users and data teams
+Works seamlessly with Microsoft's data ecosystem
+-->
+
+---
+
+# **M365 Copilot Researcher**
+
+## **Deep Research at Your Fingertips** 🔍
+
+- **Comprehensive web research** with source citations
+- **Multi-source synthesis** across documents and web
+- **Automated research reports** with key findings
+- **Cross-reference verification** for accuracy
+
+## **Perfect For**
+
+- Market research and competitive analysis
+- Literature reviews and background research
+- Fact-checking and source validation
+- Building evidence-based recommendations
+
+<!-- 
+M365 Copilot Researcher transforms how you gather and synthesize information
+Saves hours of manual research by aggregating and summarizing from multiple sources
+Provides proper citations so you can verify and trace back to original sources
+Combines web search with your organizational knowledge base
+Ideal for consultants, analysts, and anyone doing knowledge work
+-->
+
+---
+
+# **M365 Copilot Notebooks**
+
+## **Organize Your AI Conversations** 📓
+
+- **Persistent workspaces** for ongoing projects
+- **Structured collaboration** across multiple sessions
+- **Context preservation** between chat interactions
+- **Share and collaborate** with team members
+
+## **Benefits**
+
+- Keep related queries and insights together
+- Build knowledge repositories over time
+- Track project evolution and decisions
+- Export and reuse AI-generated content
+
+<!-- 
+Notebooks solve the problem of losing valuable chat history and context
+Perfect for long-term projects where you need to maintain continuity
+Acts as a collaborative workspace where teams can build on AI insights
+Great for research projects, planning documents, and knowledge management
+Can be shared across teams to democratize AI-generated insights
+-->
+
+---
+
+# **M365 Copilot Agents**
+
+## **Custom AI Assistants for Your Workflows** 🤖
+
+- **Purpose-built agents** for specific tasks and roles
+- **Connect to your data sources** and business systems
+- **Automated workflows** triggered by events or schedules
+- **Shareable across teams** for consistent outcomes
+
+## **Agent Examples**
+
+- Sales assistant with CRM integration
+- HR onboarding guide with policy knowledge
+- IT support bot with troubleshooting expertise
+- Project tracker with status updates
+
+<!-- 
+Agents are the next evolution of M365 Copilot - specialized AI assistants
+Built using Copilot Studio with no-code/low-code tools
+Can be configured with specific knowledge bases, tone, and workflows
+Reduce repetitive questions and standardize processes across teams
+Enable subject matter experts to scale their knowledge organization-wide
+-->
+
+https://catalog.data.gov/dataset?q=&sort=views_recent+desc
