@@ -443,6 +443,39 @@ This is especially important in M365 Copilot where you're pulling from so many s
 
 ---
 
+# **Copilot Pages: Collaborative Canvas** 📄
+
+## **From Chat to Document**
+
+Transform conversations into living documents you can edit and share
+
+## **Key Features**
+
+- **Create pages** directly from chat responses
+- **Edit inline** with AI assistance as you work
+- **Collaborate** with team members in real-time
+- **Iterate together** - combine human + AI contributions
+
+## **Perfect For**
+
+- Turning research into shareable reports
+- Building project plans collaboratively
+- Creating documentation from conversations
+- Refining ideas with team input and AI help
+
+<!-- 
+Copilot Pages bridge the gap between ephemeral chat and persistent documents
+Unlike chat which is sequential, Pages give you a canvas to develop ideas spatially
+You can create a page from any chat response, then continue working on it
+Pages support real-time collaboration - multiple people plus Copilot working together
+Great for when chat conversations evolve into something worth preserving and sharing
+Think of it as "chat graduate to document" - start conversationally, end with artifacts
+Can reference the page in future chats or continue editing with AI inline
+Combines the best of both: conversational AI + structured documentation
+-->
+
+---
+
 # **Managing Copilot Memory** 🧠
 
 ## **Teach Copilot About You**
@@ -713,6 +746,76 @@ Saves hours of manual research by aggregating and summarizing from multiple sour
 Provides proper citations so you can verify and trace back to original sources
 Combines web search with your organizational knowledge base
 Ideal for consultants, analysts, and anyone doing knowledge work
+-->
+
+---
+
+# **Create with Copilot** 🎨
+
+## **Generate Content from Scratch**
+
+Use the "Create" functionality to generate images, documents, and more
+
+## **Image Creation Example**
+
+*"Create an image of a modern office workspace with a diverse team collaborating around a large screen displaying data analytics dashboards. Style: professional photography, bright natural lighting, contemporary design."*
+
+## **What You Can Create**
+
+- **Images and graphics** for presentations
+- **Documents and reports** from templates
+- **Data visualizations** and charts
+- **Custom content** tailored to your needs
+
+## **Pro Tips**
+
+- Be specific about style, mood, and details
+- Iterate and refine based on initial results
+- Reference existing examples for consistency
+
+<!-- 
+Create functionality extends Copilot beyond analysis to content generation
+Image generation uses DALL-E integration for professional visuals
+Great for presentations, reports, and marketing materials
+Can specify style (photographic, illustration, minimalist, etc.)
+Include details like perspective, lighting, colors, and composition
+Useful when you need custom visuals but don't have design resources
+Remember: Generated images should align with your organization's brand guidelines
+Can create multiple variations and refine based on feedback
+-->
+
+---
+
+# **Brand Kit: Maintain Visual Consistency** 🎨
+
+## **What Is a Brand Kit?**
+
+Upload your organization's brand assets to ensure consistent, on-brand content
+
+## **What to Include**
+
+- **Logo files** (primary and alternate versions)
+- **Color palette** (hex codes and RGB values)
+- **Typography** (font families and usage guidelines)
+- **Visual style guide** (imagery, tone, design principles)
+
+## **Benefits**
+
+- **Auto-apply branding** to generated content
+- **Consistent visuals** across all Copilot outputs
+- **Faster creation** - no manual brand adjustments
+- **Compliance** with corporate identity standards
+
+<!-- 
+Brand Kit ensures all Copilot-generated content aligns with organizational branding
+Particularly important for images, presentations, and documents shared externally
+Upload once, apply automatically to all future creations
+Helps maintain professional, consistent brand identity
+Great for marketing teams, client-facing roles, and communications
+Reduces back-and-forth with design teams for brand compliance
+Can include multiple brand kits for different sub-brands or campaigns
+Works especially well with Create functionality for images and presentations
+Administrators can set up organization-wide brand kits for consistency
 -->
 
 ---
