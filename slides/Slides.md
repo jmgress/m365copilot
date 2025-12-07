@@ -1,105 +1,51 @@
 ---
 marp: true
 theme: custom-default
-footer: 'https://example.com'
+paginate: true
+footer: 'James Gress | AI Director @ Accenture | https://jmgress.github.io/githubcopilot/'
 ---
+# Use M365 Copilot to Supercharge Your Work
 
-# 1. Sample Presentation
-![bg right](https://picsum.photos/800/600)
+![bg right:40%](img/00-jamesgress.png)
 
----
+## James Gress
+_Advanced Technology Center AI Lead Accenture_
 
-<!-- Speaker Notes -->
-## 2. Speaker nots and Lists
 
-- Item 1
-- Item 2
-- Item 3
-<!-- Can have multiple on a slide -->
+<i class="fa-brands fa-linkedin"></i> LinkedIn: [jamesgress](https://linkedin.com/in/jamesgress/)  
+<i class="fa-brands fa-github"></i> GitHub: [jmgress](https://github.com/jmgress)  
+<i class="fa-brands fa-x-twitter"></i> X.com: [@jmgress](https://x.com/jmgress)  
+<i class="fa-brands fa-meetup"></i> [Tampa Bay Generative AI Meetup](https://www.meetup.com/tampa-bay-generative-ai-meetup/)  
 
----
-
-## 3. Speaker notes and images
-<!-- Can also do a multiline
-comment that will show in notes -->
-
-![Image](https://picsum.photos/800/600)
-
----
-
-## 4. Centered images
-
-You can center images
-
-![center](https://picsum.photos/800/600)
+<!-- 
+Done 100's of Prototypes
+Taken 10 applications to Production ranging from simple RAG to more complex Agentic systems
+Specialize in AI in the SDLD or TDLC
+-->
 
 ---
 
-## 5. Slide 4
+# **This Slide Deck Was Created Using GitHub Copilot**
 
-> This is a quote.
-
----
-
-## 6. Tables
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+<!-- This slide deck itself is living proof of Copilot's capabilities -->
 
 ---
 
-![bg opacity](https://picsum.photos/800/600?image=53)
-## 7. Columns
-
-<div class="columns">
-<div>
-
-## Left
-
-- 1
-- 2
-
-</div>
-<div>
-
-## Right
-
-- 3
-- 4
-
-</div>
-</div>
+# **AI-Generated Code: CEO Insights (2025)**
 
 ---
 
-## 8. Icons
+## **Current Impact**
+- **Satya Nadella (Microsoft)**  
+  *“20–30% of the code in our repos today is written by AI.”*  
+  **Date:** Apr 29, 2025 (LlamaCon)
 
-<i class="fa-brands fa-twitter"></i> Twitter: 
-<i class="fa-brands fa-mastodon"></i> Mastodon: 
-<i class="fa-brands fa-linkedin"></i> LinkedIn: 
-<i class="fa fa-window-maximize"></i> Blog: 
-<i class="fa-brands fa-github"></i> GitHub: 
+- **Sundar Pichai (Google)**  
+  *“AI is generating more than 30% of the company’s code.”*  
+  **Date:** Apr 2025 (Alphabet Earnings Call)
 
----
-
-# 9. <!--fit--> Large Text
-
----
-
-<!-- Needed for mermaid, can be anywhere in file except frontmatter -->
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
-# 10. Mermaid
-
-<div class="mermaid">
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-</div>
+<!--
+Sources:
+Satya Nadella: https://www.windowscentral.com/software-apps/ai/satya-nadella-says-30-of-microsofts-code-is-written-by-ai  
+Sundar Pichai: https://www.cnbc.com/2025/04/25/google-ceo-sundar-pichai-says-ai-generates-30percent-of-company-code.html  
+-->
