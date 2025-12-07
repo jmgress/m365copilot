@@ -35,19 +35,20 @@ Specialize in AI in the SDLD or TDLC
 
 ---
 
-## **Transforming Productivity**
+## **The Human Element of AI Adoption**
 - **Satya Nadella (Microsoft CEO)**  
-  *"Copilot is reinventing how people work. It's not just about doing more—it's about doing better work."*  
-  **Date:** 2024 Microsoft Ignite
+  *"The challenge isn't the technology. It's helping people change how they work."*  
+  **Date:** August 2025
 
-- **Jared Spataro (Microsoft AI @ Work)**  
-  *"70% of Copilot users say they are more productive, and 68% say it improved the quality of their work."*  
-  **Date:** 2024 Work Trend Index
+- **Sam Altman (OpenAI CEO)**  
+  *"AI agents [will] become an integral part of the workforce by 2025, dramatically transforming productivity."*  
+  **Date:** 2024-2025
 
 <!--
 Sources:
-Microsoft Work Trend Index: https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work
-Focus on productivity gains and work quality improvements with M365 Copilot
+Quote 1: Widely circulated in articles and LinkedIn posts (mid-to-late 2025) as businesses moved from piloting AI to large-scale deployment
+Quote 2: Sam Altman's forward-looking statements throughout 2024 and 2025, emphasizing the rapid, transformative role AI agents will play in daily business operations
+These quotes frame AI adoption as both inevitable and fundamentally about human change, not just technology
 -->
 
 ---
