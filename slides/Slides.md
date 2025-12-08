@@ -483,6 +483,14 @@ Great for onboarding new Copilot users
 
 ---
 
+# **Saving Prompts - Hightlights** 💾
+
+- **Saving a Prompt**
+- **Have Copilot help you with better prompts**
+- **Saving it to your Team Library**
+
+---
+
 # **Scheduled Prompts: Automation at Work** ⏰
 
 - **Recurring reports** generated automatically
@@ -528,6 +536,28 @@ Starting fresh helps Copilot focus on what matters now
 Think of it like clearing your workspace before starting a new task
 This is especially important in M365 Copilot where you're pulling from so many sources
 -->
+
+---
+
+# **Protected Status Indicators**
+
+## **The Shield Icon** 🛡️
+Shows your data is **enterprise-protected**
+
+## **What It Means:**
+- Your prompts and responses stay within your tenant
+- Protected by commercial data protection
+- Not used to train foundation AI models
+- Compliant with organizational security policies
+
+<!-- 
+The shield/protected indicator is critical for enterprise users
+It confirms that Microsoft's commercial data protection is in effect
+Without the shield, data may not have the same enterprise protections
+Users should always verify the shield is present when handling sensitive info
+This is especially important in organizations with strict compliance requirements
+-->
+
 
 ---
 
@@ -742,27 +772,6 @@ Search functionality makes it easy to rediscover insights
 Helps you learn what prompts work best over time
 Great for maintaining continuity across projects
 Think of it as your searchable AI conversation archive
--->
-
----
-
-# **Protected Status Indicators**
-
-## **The Shield Icon** 🛡️
-Shows your data is **enterprise-protected**
-
-## **What It Means:**
-- Your prompts and responses stay within your tenant
-- Protected by commercial data protection
-- Not used to train foundation AI models
-- Compliant with organizational security policies
-
-<!-- 
-The shield/protected indicator is critical for enterprise users
-It confirms that Microsoft's commercial data protection is in effect
-Without the shield, data may not have the same enterprise protections
-Users should always verify the shield is present when handling sensitive info
-This is especially important in organizations with strict compliance requirements
 -->
 
 ---
