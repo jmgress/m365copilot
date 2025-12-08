@@ -84,14 +84,56 @@ OpenAI Sycophantic behavior -->
 
 ---
 
+# **M365 Copilot Data Sources** 📊
+
+## **Your Organizational Knowledge**
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+<div>
+
+- Outlook emails
+- Teams chats & channels
+- Teams meetings & transcripts
+- Viva Engage posts
+- SharePoint sites & libraries
+- OneDrive files
+- Word, Excel, PowerPoint
+
+</div>
+
+<div>
+
+- OneNote notebooks
+- Loop components
+- Planner tasks
+- To Do lists
+- Organizational directory
+- Viva Insights data
+- Calendar & scheduling
+
+</div>
+
+</div>
+
+<!-- 
+M365 Copilot has access to a vast array of enterprise data sources
+All data access respects existing permissions - you only see what you're authorized to see
+This comprehensive access is what makes Copilot so powerful for enterprise use
+Data stays within your Microsoft 365 tenant boundary
+Copilot uses Microsoft Graph API to access these sources securely
+-->
+
+---
+
 # **Getting Started: Simple Chat**
 
-1. **Open Microsoft Teams, Outlook, or Copilot.microsoft.com**
+1. **Open Microsoft Teams, Outlook, or copilot.microsoft.com**
 2. **Click the Copilot icon**
 3. **Start with simple questions:**
    - "Summarize my emails from this week"
    - "What meetings do I have today?"
-   - "Help me draft a response to [person's name]"
+   - "Help me draft a response to /[person's name]"
 
 ## **Pro Tip**
 The more context you provide, the better the results!
