@@ -379,6 +379,8 @@ Neutral prompts lead to more reliable, actionable insights
 
 ---
 
+<!-- _footer: '' -->
+
 # **Use "Like" for Creative Adaptation** 💡
 
 ## **Inspire, Don't Dictate**
@@ -410,6 +412,53 @@ Works great for: writing styles, document formats, analysis approaches
 The model can access your actual work data and apply the concept appropriately
 Gives Copilot room to be intelligent rather than just following a rigid template
 Use "like" when you want conceptual guidance with contextual adaptation
+-->
+
+---
+
+# **Normalizing Reports Across Teams** 📊
+
+## **The Challenge**
+
+Different team members create status reports in varying styles, levels of detail, and formats
+
+## **The Solution**
+
+*"Review these three status reports from different team members. Normalize them into a consistent executive summary format with: standard sections (progress, risks, next steps), uniform detail level appropriate for leadership, consistent metric presentation, and aligned tone. Maintain the key information from each report while creating a cohesive view."*
+
+<!-- 
+## **Perfect For**
+
+- Consolidating team updates for leadership
+- Creating consistent project dashboards
+- Standardizing cross-functional reports
+- Preparing board-level summaries
+
+
+Normalization is a powerful use case for M365 Copilot in reporting workflows
+Instead of manually reformatting different styles, Copilot can standardize them
+Maintains information integrity while ensuring consistency
+Particularly valuable for managers consolidating team inputs
+Saves hours of manual reformatting and rewriting
+Can establish organizational standards while respecting individual work styles
+Great for creating executive dashboards from varied sources
+Helps ensure leadership gets information at the right level of abstraction
+-->
+
+---
+
+# **Time for the Live Demo!** 🚀
+
+![bg right:50%](img/demogremlin.png)
+
+## **With a non-deterministic system...**
+
+### What could possibly go wrong?
+
+<!-- 
+Live demos with AI are always an adventure
+The demo gremlin is real - embrace the uncertainty
+Great opportunity to show real-world behavior and troubleshooting
 -->
 
 ---
@@ -461,23 +510,17 @@ Reduces cognitive load - one less thing to remember
 
 # **Best Practice: Refresh Your Chat**
 
-## **Why Start a New Chat When Context Changes**
+## **Why Start Fresh?**
 
-### **Context Pollution**
 - Previous conversations fill the context window
-- Old context can confuse or bias new responses
-- Model may blend unrelated topics together
+- Old context can confuse or bias responses
+- Fresh chat = focused, relevant results
 
-### **Better Results**
-- Fresh chat = focused, relevant responses
-- Faster processing with less context to analyze
-- Clearer outputs aligned to your current task
+## **When to Start a New Chat**
 
-## **When to Start Fresh**
-✅ Switching from one project to another  
+✅ Switching projects or topics  
 ✅ Moving from creative to analytical work  
-✅ Starting a new topic or subject area  
-✅ When responses seem off-track or confused
+✅ When responses seem off-track
 
 <!-- 
 Context pollution is a real issue - keeping old conversations active degrades quality
@@ -490,23 +533,18 @@ This is especially important in M365 Copilot where you're pulling from so many s
 
 # **Copilot Pages: Collaborative Canvas** 📄
 
-## **From Chat to Document**
-
-Transform conversations into living documents you can edit and share
+Transform chat conversations into living documents you can edit and share
 
 ## **Key Features**
 
-- **Create pages** directly from chat responses
-- **Edit inline** with AI assistance as you work
-- **Collaborate** with team members in real-time
-- **Iterate together** - combine human + AI contributions
+- Create pages directly from chat responses
+- Edit inline with AI assistance
+- Real-time collaboration with team members
+- Combine human + AI contributions
 
 ## **Perfect For**
 
-- Turning research into shareable reports
-- Building project plans collaboratively
-- Creating documentation from conversations
-- Refining ideas with team input and AI help
+Research reports • Project plans • Documentation • Team ideation
 
 <!-- 
 Copilot Pages bridge the gap between ephemeral chat and persistent documents
@@ -523,23 +561,17 @@ Combines the best of both: conversational AI + structured documentation
 
 # **Managing Copilot Memory** 🧠
 
-## **Teach Copilot About You**
+Store preferences and context that persist across conversations
 
-- **Add memories** for personalized responses
-- **Store preferences** like writing style or tone
-- **Save context** about projects and priorities
-- **Remove outdated info** to keep it current
+## **Adding a Memory**
 
-## **What to Remember**
+*"Remember that I prefer concise responses with bullet points and prefer data-driven insights over general advice."*
 
-- Your role, responsibilities, and goals
-- Preferred formats and communication style
-- Key projects, clients, or initiatives
-- Common abbreviations or internal terms
+## **Removing a Memory**
 
-## **Keep It Fresh**
+*"Forget my preference for bullet points."*
 
-Review and update memories regularly to maintain accuracy
+**Pro Tip:** Review your stored memories periodically to keep them current
 
 <!-- 
 Memory feature allows Copilot to learn your preferences over time
@@ -610,17 +642,11 @@ This is a key feature that maintains data security while providing flexibility
 
 ## **Enterprise Search Reimagined** 🔎
 
-- **Semantic search** across all your M365 data
-- **Natural language queries** instead of keywords
-- **Intelligent summaries** from multiple sources
-- **People, files, emails, chats** - all in one place
-
-## **What Makes It Different**
-
-- Understands intent, not just matches words
-- Surfaces relevant context automatically
-- Combines web and work data seamlessly
-- Generates answers, not just links
+- Semantic search across all your M365 data
+- Natural language queries instead of keywords
+- Intelligent summaries from multiple sources
+- Understands intent, not just keyword matching
+- Generates answers with citations, not just links
 
 <!-- 
 M365 Copilot Search transforms how you find information across the enterprise
@@ -698,19 +724,16 @@ Not Fully Anonymous: While not used for personalization or training, platforms m
 
 # **All Chats: Your Conversation Library** 📚
 
-## **Never Lose a Conversation**
+Searchable history of all your Copilot conversations
 
-- **Searchable history** of all your Copilot interactions
-- **Quick filters** by date, topic, or project
-- **Resume any conversation** right where you left off
-- **Reference past insights** for future work
+## **Key Features**
 
-## **Pro Tips**
+- Search and filter by date, topic, or project
+- Resume any conversation where you left off
+- Reference past insights for future work
+- Track patterns in successful queries
 
-- Use descriptive first messages for easy finding
-- Search by keywords from your past prompts
-- Review patterns in your most successful queries
-- Build on previous work instead of starting over
+**Pro Tip:** Use descriptive first messages to make conversations easy to find later
 
 <!-- 
 All Chats is your personal knowledge repository of AI interactions
@@ -748,16 +771,12 @@ This is especially important in organizations with strict compliance requirement
 
 ## **Advanced Data Analysis with AI** 📊
 
-- **Work with complex datasets** directly in Copilot
-- **Natural language queries** for data insights
-- **Automated visualization** and trend analysis
-- **Integrates with Excel, Power BI, and enterprise data**
-
-## **Key Capabilities**
+- Work with complex datasets directly in Copilot
+- Natural language queries for data insights
 - Upload files (CSV, Excel) for instant analysis
-- Ask questions about patterns and anomalies
+- Automated visualizations and trend analysis
 - Generate charts and summaries automatically
-- Export insights back to your workflows
+- Integrates with Excel, Power BI, and enterprise data
 
 <!-- 
 M365 Copilot Analyst is designed for data-driven decision making
@@ -765,6 +784,7 @@ Democratizes data analysis - no advanced Excel or analytics skills needed
 Can handle large datasets and complex calculations
 Great bridge between business users and data teams
 Works seamlessly with Microsoft's data ecosystem
+https://catalog.data.gov/dataset?q=&sort=views_recent+desc
 -->
 
 ---
@@ -773,17 +793,12 @@ Works seamlessly with Microsoft's data ecosystem
 
 ## **Deep Research at Your Fingertips** 🔍
 
-- **Comprehensive web research** with source citations
-- **Multi-source synthesis** across documents and web
-- **Automated research reports** with key findings
-- **Cross-reference verification** for accuracy
-
-## **Perfect For**
-
-- Market research and competitive analysis
-- Literature reviews and background research
-- Fact-checking and source validation
-- Building evidence-based recommendations
+- Comprehensive web research with source citations
+- Multi-source synthesis across documents and web
+- Automated research reports with key findings
+- Cross-reference verification for accuracy
+- Market research • Competitive analysis • Literature reviews
+- Fact-checking • Source validation • Evidence-based recommendations
 
 <!-- 
 M365 Copilot Researcher transforms how you gather and synthesize information
@@ -799,24 +814,14 @@ Ideal for consultants, analysts, and anyone doing knowledge work
 
 ## **Generate Content from Scratch**
 
-Use the "Create" functionality to generate images, documents, and more
+Generate images, documents, and more using the "Create" functionality
 
-## **Image Creation Example**
-
-*"Create an image of a modern office workspace with a diverse team collaborating around a large screen displaying data analytics dashboards. Style: professional photography, bright natural lighting, contemporary design."*
-
-## **What You Can Create**
-
-- **Images and graphics** for presentations
-- **Documents and reports** from templates
-- **Data visualizations** and charts
-- **Custom content** tailored to your needs
-
-## **Pro Tips**
-
+- Images and graphics for presentations
+- Documents and reports from templates
+- Data visualizations and charts
+- Custom content tailored to your needs
 - Be specific about style, mood, and details
 - Iterate and refine based on initial results
-- Reference existing examples for consistency
 
 <!-- 
 Create functionality extends Copilot beyond analysis to content generation
@@ -833,23 +838,15 @@ Can create multiple variations and refine based on feedback
 
 # **Brand Kit: Maintain Visual Consistency** 🎨
 
-## **What Is a Brand Kit?**
-
 Upload your organization's brand assets to ensure consistent, on-brand content
 
-## **What to Include**
-
-- **Logo files** (primary and alternate versions)
-- **Color palette** (hex codes and RGB values)
-- **Typography** (font families and usage guidelines)
-- **Visual style guide** (imagery, tone, design principles)
-
-## **Benefits**
-
-- **Auto-apply branding** to generated content
-- **Consistent visuals** across all Copilot outputs
-- **Faster creation** - no manual brand adjustments
-- **Compliance** with corporate identity standards
+- Logo files (primary and alternate versions)
+- Color palette (hex codes and RGB values)
+- Typography (font families and usage guidelines)
+- Visual style guide (imagery, tone, design principles)
+- Auto-apply branding to generated content
+- Consistent visuals across all Copilot outputs
+- Faster creation with no manual brand adjustments
 
 <!-- 
 Brand Kit ensures all Copilot-generated content aligns with organizational branding
@@ -869,17 +866,13 @@ Administrators can set up organization-wide brand kits for consistency
 
 ## **Organize Your AI Conversations** 📓
 
-- **Persistent workspaces** for ongoing projects
-- **Structured collaboration** across multiple sessions
-- **Context preservation** between chat interactions
-- **Share and collaborate** with team members
-
-## **Benefits**
-
+- Persistent workspaces for ongoing projects
+- Structured collaboration across multiple sessions
+- Context preservation between chat interactions
+- Share and collaborate with team members
 - Keep related queries and insights together
 - Build knowledge repositories over time
 - Track project evolution and decisions
-- Export and reuse AI-generated content
 
 <!-- 
 Notebooks solve the problem of losing valuable chat history and context
@@ -895,17 +888,13 @@ Can be shared across teams to democratize AI-generated insights
 
 ## **Custom AI Assistants for Your Workflows** 🤖
 
-- **Purpose-built agents** for specific tasks and roles
-- **Connect to your data sources** and business systems
-- **Automated workflows** triggered by events or schedules
-- **Shareable across teams** for consistent outcomes
-
-## **Agent Examples**
-
+- Purpose-built agents for specific tasks and roles
+- Connect to your data sources and business systems
+- Automated workflows triggered by events or schedules
+- Shareable across teams for consistent outcomes
 - Sales assistant with CRM integration
 - HR onboarding guide with policy knowledge
 - IT support bot with troubleshooting expertise
-- Project tracker with status updates
 
 <!-- 
 Agents are the next evolution of M365 Copilot - specialized AI assistants
@@ -914,5 +903,3 @@ Can be configured with specific knowledge bases, tone, and workflows
 Reduce repetitive questions and standardize processes across teams
 Enable subject matter experts to scale their knowledge organization-wide
 -->
-
-https://catalog.data.gov/dataset?q=&sort=views_recent+desc

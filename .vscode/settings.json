@@ -1,0 +1,7 @@
+{
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        {
+            "text": "Changes in the Slides.md it is important to describe the content changes, not the technical changes that were done.  I don't want things like adjusted for readability or fixed typos.  Instead, I want to know what content was added, removed, or changed.  If there are links added or removed, please include those in the description."
+        }
+    ]
+}
