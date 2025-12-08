@@ -32,9 +32,11 @@ jobs:
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli:latest
         with:
-          args: --theme-set slides/themes --bespoke-template slides/bespoke-template.html -o build/index.html --html -- slides/Slides.md
+          args: --theme-set slides/themes -o build/index.html --html -- slides/Slides.md
         env:
           MARP_USER: root:root
+      - name: Add favicon to HTML
+        run: sed -i 's|<head>|<head>\n  <link rel="icon" type="image/png" href="favicon.png">|' build/index.html
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
