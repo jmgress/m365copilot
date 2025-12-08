@@ -32,7 +32,7 @@ jobs:
       - name: Marp Build (README)
         uses: docker://marpteam/marp-cli:latest
         with:
-          args: --theme-set slides/themes --template bespoke -o build/index.html --html -- slides/Slides.md
+          args: --theme-set slides/themes --bespoke-template slides/bespoke-template.html -o build/index.html --html -- slides/Slides.md
         env:
           MARP_USER: root:root
       - name: Setup Pages
