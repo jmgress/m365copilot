@@ -186,14 +186,6 @@ Shows how Copilot can save hours of manual status report compilation
 
 ---
 
-
-
-## **A Fun Prompt**
-*"Look at my Teams chats, meetings and emails I've sent in the last two weeks. Based on the above analysis, what Star Wars character would represent my style of work best, and why? What would my abilities, strengths and personality flaws be? Can you format that as a Star Wars character dossier for me? Also give me a Star Wars character friend group based on my recent interactions with my current top [five] collaborators. Provide them with different types of Star Wars characters, include their real name, star wars type, home planet, strengths and weaknesses, and why they are my friends and how they help me in my work here at Accenture. Also identify my rival based on recent interactions with my colleagues and a short story of how we became nemeses but ended up being friends. List my real name, my most similar existing Star Wars Character, and include the same attributes listed above for friends and the rest of the information formatted and edited in a dossier style.
-"*
-
----
-
 # **Advanced Prompting Techniques**
 
 ---
@@ -389,11 +381,11 @@ When you want Copilot to adapt ideas to your context, use "like" instead of exac
 
 ## **Too Specific (Limits Creativity)** ❌
 
-*"Write a project update email with exactly 3 bullet points, a status table, and a risks section."*
+*"Also include that we missed the milestone because of resource constraints"*
 
 ## **Inspirational (Enables Adaptation)** ✅
 
-*"Write a project update email **like** the ones I usually send - concise, data-driven, and highlighting what stakeholders need to know."*
+*"Also include something like we missed the milestone due to resource constraints"*
 
 <!-- 
 
@@ -460,6 +452,12 @@ Live demos with AI are always an adventure
 The demo gremlin is real - embrace the uncertainty
 Great opportunity to show real-world behavior and troubleshooting
 -->
+
+---
+
+## **A Fun Prompt**
+*"Look at my Teams chats, meetings and emails I've sent in the last two weeks. Based on the above analysis, what Star Wars character would represent my style of work best, and why? What would my abilities, strengths and personality flaws be? Can you format that as a Star Wars character dossier for me? Also give me a Star Wars character friend group based on my recent interactions with my current top [five] collaborators. Provide them with different types of Star Wars characters, include their real name, star wars type, home planet, strengths and weaknesses, and why they are my friends and how they help me in my work here at Accenture. Also identify my rival based on recent interactions with my colleagues and a short story of how we became nemeses but ended up being friends. List my real name, my most similar existing Star Wars Character, and include the same attributes listed above for friends and the rest of the information formatted and edited in a dossier style.
+"*
 
 ---
 
@@ -688,16 +686,17 @@ Saves significant time in knowledge work by reducing the search-to-answer cycle
 
 ---
 
-# **GPT-5 is Here: Try It Now**
+# **GPT-5.2 is Here: Choose Your Mode**
 
-## **What's New in GPT-5?**
+## **What's New in GPT-5.2?**
+- **Auto** - Decides how long to think based on complexity
+- **Quick response** - Answers right away for fast tasks
+- **Think deeper** - Thinks longer for better, more thorough answers
 - Significantly improved reasoning and accuracy
-- Better understanding of complex instructions
 - Enhanced creative and analytical capabilities
-- More reliable and coherent responses
 
 <!-- 
-GPT-5 represents a significant leap in AI capabilities
+GPT-5.2 represents a significant leap in AI capabilities
 Available to M365 Copilot users with appropriate licensing
 Great for complex reasoning, analysis, and creative tasks
 May have different performance characteristics - test with your use cases
@@ -705,23 +704,36 @@ May have different performance characteristics - test with your use cases
 
 ---
 
-# **GPT-4 vs GPT-5 in M365 Copilot**
+# **Choosing the Right Mode**
 
-## **GPT-4 (Standard Model)**
+## **Quick Response Mode**
 - Fast, efficient for most daily tasks
 - Great for summaries, drafts, and routine queries
 - Best for: Quick answers, standard productivity tasks
 
-## **GPT-5 (Advanced Model)**
+---
+
+# **Choosing the Right Mode**
+
+## **Think Deeper Mode**
 - Superior reasoning and complex problem-solving
 - Better at nuanced instructions and context
 - Best for: Deep research, critical thinking, complex writing
 
+---
+
+# **Choosing the Right Mode**
+
+## **Auto Mode**
+- Intelligently chooses based on query complexity
+- Balances speed and quality automatically
+
 <!-- 
-GPT-4 is the workhorse - handles 90% of everyday tasks efficiently
-GPT-5 is for when you need the extra horsepower
+Quick response is the workhorse - handles 90% of everyday tasks efficiently
+Think deeper is for when you need the extra reasoning power
+Auto mode learns when to use which approach
 Consider cost/performance tradeoffs in your organization
-Test both models to understand which works best for your specific use cases
+Test different modes to understand which works best for your specific use cases
 -->
 
 ---
