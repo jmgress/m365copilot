@@ -537,6 +537,58 @@ This is especially important in M365 Copilot where you're pulling from so many s
 
 ---
 
+# **Work vs Web Toggle**
+
+## **Work Mode** 🏢
+- Your company data (emails, Teams, SharePoint)
+- Internal projects and communications
+- Confidential content stays secure
+
+## **Web Mode** 🌐
+- Public internet information
+- Industry trends and general knowledge
+- No access to your company data
+
+
+<!-- 
+Work mode keeps everything within your organization's security boundary
+Web mode gives you broader knowledge but no access to your company data
+Many users don't realize they can toggle between these modes
+This is a key feature that maintains data security while providing flexibility
+-->
+
+---
+
+# **Start a Group Chat in Teams** 🤝
+
+---
+
+# **Temporary Chat: When Privacy Matters**
+
+## **What Is It?** 🔒
+Chat history is **not saved** or used for training
+
+## **Use Temporary Chat For:**
+- Exploring sensitive topics or scenarios
+- Testing prompts with confidential data
+- Personal brainstorming sessions
+- Prototype ideas before formal documentation
+
+
+<!-- 
+Temporary chat ensures your conversation won't be saved to chat history
+Especially useful when testing prompts with real client names or sensitive info
+Great for "what if" scenarios you don't want documented
+Think of it as incognito mode for Copilot
+
+Important Caveats
+
+Enterprise Governance: In Microsoft Copilot, even Temporary Chats may be subject to retention, auditing, or eDiscovery under organizational policies. [marcotran.com.au]
+Not Fully Anonymous: While not used for personalization or training, platforms may temporarily store data for abuse prevention or compliance. [help.openai.com]
+-->
+
+---
+
 # **Protected Status Indicators**
 
 ## **The Shield Icon** 🛡️
@@ -554,35 +606,6 @@ It confirms that Microsoft's commercial data protection is in effect
 Without the shield, data may not have the same enterprise protections
 Users should always verify the shield is present when handling sensitive info
 This is especially important in organizations with strict compliance requirements
--->
-
-
----
-
-# **Copilot Pages: Collaborative Canvas** 📄
-
-Transform chat conversations into living documents you can edit and share
-
-## **Key Features**
-
-- Create pages directly from chat responses
-- Edit inline with AI assistance
-- Real-time collaboration with team members
-- Combine human + AI contributions
-
-## **Perfect For**
-
-Research reports • Project plans • Documentation • Team ideation
-
-<!-- 
-Copilot Pages bridge the gap between ephemeral chat and persistent documents
-Unlike chat which is sequential, Pages give you a canvas to develop ideas spatially
-You can create a page from any chat response, then continue working on it
-Pages support real-time collaboration - multiple people plus Copilot working together
-Great for when chat conversations evolve into something worth preserving and sharing
-Think of it as "chat graduate to document" - start conversationally, end with artifacts
-Can reference the page in future chats or continue editing with AI inline
-Combines the best of both: conversational AI + structured documentation
 -->
 
 ---
@@ -644,48 +667,6 @@ This combination makes Copilot feel increasingly tailored to your work style
 
 ---
 
-# **Work vs Web Toggle**
-
-## **Work Mode** 🏢
-- Your company data (emails, Teams, SharePoint)
-- Internal projects and communications
-- Confidential content stays secure
-
-## **Web Mode** 🌐
-- Public internet information
-- Industry trends and general knowledge
-- No access to your company data
-
-
-<!-- 
-Work mode keeps everything within your organization's security boundary
-Web mode gives you broader knowledge but no access to your company data
-Many users don't realize they can toggle between these modes
-This is a key feature that maintains data security while providing flexibility
--->
-
----
-
-# **M365 Copilot Search**
-
-## **Enterprise Search Reimagined** 🔎
-
-- Semantic search across all your M365 data
-- Natural language queries instead of keywords
-- Intelligent summaries from multiple sources
-- Understands intent, not just keyword matching
-- Generates answers with citations, not just links
-
-<!-- 
-M365 Copilot Search transforms how you find information across the enterprise
-Traditional search relies on exact keyword matching - Copilot understands what you mean
-Aggregates information from emails, Teams, SharePoint, OneDrive, and more
-Provides synthesized answers with citations instead of forcing you to click through links
-Saves significant time in knowledge work by reducing the search-to-answer cycle
--->
-
----
-
 # **GPT-5.2 is Here: Choose Your Mode**
 
 ## **What's New in GPT-5.2?**
@@ -738,32 +719,6 @@ Test different modes to understand which works best for your specific use cases
 
 ---
 
-# **Temporary Chat: When Privacy Matters**
-
-## **What Is It?** 🔒
-Chat history is **not saved** or used for training
-
-## **Use Temporary Chat For:**
-- Exploring sensitive topics or scenarios
-- Testing prompts with confidential data
-- Personal brainstorming sessions
-- Prototype ideas before formal documentation
-
-
-<!-- 
-Temporary chat ensures your conversation won't be saved to chat history
-Especially useful when testing prompts with real client names or sensitive info
-Great for "what if" scenarios you don't want documented
-Think of it as incognito mode for Copilot
-
-Important Caveats
-
-Enterprise Governance: In Microsoft Copilot, even Temporary Chats may be subject to retention, auditing, or eDiscovery under organizational policies. [marcotran.com.au]
-Not Fully Anonymous: While not used for personalization or training, platforms may temporarily store data for abuse prevention or compliance. [help.openai.com]
--->
-
----
-
 # **All Chats: Your Conversation Library** 📚
 
 Searchable history of all your Copilot conversations
@@ -784,6 +739,26 @@ Search functionality makes it easy to rediscover insights
 Helps you learn what prompts work best over time
 Great for maintaining continuity across projects
 Think of it as your searchable AI conversation archive
+-->
+
+---
+
+# **M365 Copilot Search**
+
+## **Enterprise Search Reimagined** 🔎
+
+- Semantic search across all your M365 data
+- Natural language queries instead of keywords
+- Intelligent summaries from multiple sources
+- Understands intent, not just keyword matching
+- Generates answers with citations, not just links
+
+<!-- 
+M365 Copilot Search transforms how you find information across the enterprise
+Traditional search relies on exact keyword matching - Copilot understands what you mean
+Aggregates information from emails, Teams, SharePoint, OneDrive, and more
+Provides synthesized answers with citations instead of forcing you to click through links
+Saves significant time in knowledge work by reducing the search-to-answer cycle
 -->
 
 ---
@@ -827,6 +802,38 @@ Saves hours of manual research by aggregating and summarizing from multiple sour
 Provides proper citations so you can verify and trace back to original sources
 Combines web search with your organizational knowledge base
 Ideal for consultants, analysts, and anyone doing knowledge work
+-->
+
+---
+
+## **Library**
+
+---
+
+# **Copilot Pages: Collaborative Canvas** 📄
+
+Transform chat conversations into living documents you can edit and share
+
+## **Key Features**
+
+- Create pages directly from chat responses
+- Edit inline with AI assistance
+- Real-time collaboration with team members
+- Combine human + AI contributions
+
+## **Perfect For**
+
+Research reports • Project plans • Documentation • Team ideation
+
+<!-- 
+Copilot Pages bridge the gap between ephemeral chat and persistent documents
+Unlike chat which is sequential, Pages give you a canvas to develop ideas spatially
+You can create a page from any chat response, then continue working on it
+Pages support real-time collaboration - multiple people plus Copilot working together
+Great for when chat conversations evolve into something worth preserving and sharing
+Think of it as "chat graduate to document" - start conversationally, end with artifacts
+Can reference the page in future chats or continue editing with AI inline
+Combines the best of both: conversational AI + structured documentation
 -->
 
 ---
