@@ -38,7 +38,7 @@ jobs:
       - name: Add favicon to HTML
         run: sed -i 's|<head>|<head>\n  <link rel="icon" type="image/png" href="favicon.png">|' build/index.html
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
